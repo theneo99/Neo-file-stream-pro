@@ -1,2 +1,2 @@
-worker: python -m biisal
+web: python -m biisal
  
